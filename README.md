@@ -1,4 +1,5 @@
 [=ABOUT=]
+
 -It is a keyboard with potentiometer, it works with 2 pot. The first pot for letters, the 2nd pot for digits and symbols.
 -There are 2 buttons. The first button enters the selected chracter on one click. It comes back on double click and it erases eveything on long click.
 The 2nd button for upper case or lower case. If "bled" variable is 1, it is uppercase but if it is 0, it is lowercase.
@@ -14,6 +15,7 @@ IT NEEDS "OneButton.h" LIBRARY TO RUN!
  https://github.com/mathertel/OneButton
 
 [=What You Need=]
+
 x1 Arduino Uno
 x1 LCD (code for 16x2)
 x1 Buzzer
