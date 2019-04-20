@@ -1,4 +1,4 @@
-<strong>[=ABOUT=]</strong>
+<font size="20px"><strong>[=ABOUT=]</strong></font>
 
 -It is a keyboard with potentiometer, it works with 2 pot. The first pot for letters, the 2nd pot for digits and symbols.
 
@@ -17,7 +17,7 @@ in 23 the digits and symbols activating, you can only use second pot when the fi
 IT NEEDS "OneButton.h" LIBRARY TO RUN!
  https://github.com/mathertel/OneButton
 
-[=What You Need=]
+<font size="20px"><strong>[=What You Need=]</strong></font>
 
 x1 Arduino Uno
 
