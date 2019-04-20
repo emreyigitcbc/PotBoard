@@ -10,6 +10,9 @@ The pot have 24 value
 24 is space
 in 23 the digits and symbols activating, you can only use second pot when the first pot is 23!
 
+IT NEEDS "OneButton.h" LIBRARY TO RUN!
+ https://github.com/mathertel/OneButton
+
 [=What You Need=]
 x1 Arduino Uno
 x1 LCD (code for 16x2)
