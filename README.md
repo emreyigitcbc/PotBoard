@@ -1,4 +1,4 @@
-[=ABOUT=]
+<strong>[=ABOUT=]</strong>
 
 -It is a keyboard with potentiometer, it works with 2 pot. The first pot for letters, the 2nd pot for digits and symbols.
 
